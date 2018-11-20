@@ -16,6 +16,7 @@ body {
 }
 
 .center {
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
@@ -30,10 +31,13 @@ body {
 .box-1 {
   font-family: 'Akronim', cursive;
   font-size: 40px;
-  position: 200px;
+  height: 300px;
 }
 
 .box-2 {
   font-family: 'Akronim', cursive;
   font-size: 20px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
 }
