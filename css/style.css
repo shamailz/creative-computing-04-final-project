@@ -31,6 +31,8 @@ body {
 .box-1 {
   font-family: 'Akronim', cursive;
   font-size: 40px;
+  position: relative;
+
 }
 
 .box-2 {
