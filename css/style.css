@@ -16,10 +16,11 @@ body {
 }
 
 .center {
-  position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%)
+  transform: translate(-50%,-50%);
+  height: auto;
+  width: auto;
 }
 
 .content {
@@ -29,7 +30,7 @@ body {
 .box-1 {
   font-family: 'Akronim', cursive;
   font-size: 40px;
-  height: 300px;
+  position: 200px;
 }
 
 .box-2 {
