@@ -28,14 +28,14 @@ body {
   height: 100%;
   width: 100%;
 }
-.box-1 {
+.row-1 {
   font-family: 'Akronim', cursive;
   font-size: 40px;
   position: relative;
 
 }
 
-.box-2 {
+.row-2 {
   font-family: 'Akronim', cursive;
   font-size: 20px;
 }
