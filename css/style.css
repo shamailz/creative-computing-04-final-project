@@ -45,7 +45,18 @@ body {
   color: black;
 }
 
+@keyframes down {
+  0% {
+    color: black;
+  }
+  100% {
+    color: white;
+  }
+}
+
 .content:hover .box-2 {
      color: gray;  
-     cursor:pointer;  
+     cursor:pointer; 
+     animation-name: down;
+  animation-duration: .1s; 
 }
