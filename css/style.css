@@ -54,9 +54,7 @@ body {
   }
 }
 
-.content:hover .box-2 {
-     font-color: gray;  
-     cursor:pointer; 
+.content:hover .box-2 { 
      animation-name: down;
   animation-duration: .1s; 
 }
