@@ -47,15 +47,15 @@ body {
 
 @keyframes down {
   0% {
-    color: black;
+    font-color: black;
   }
   100% {
-    color: white;
+    font-color: white;
   }
 }
 
 .content:hover .box-2 {
-     color: gray;  
+     font-color: gray;  
      cursor:pointer; 
      animation-name: down;
   animation-duration: .1s; 
