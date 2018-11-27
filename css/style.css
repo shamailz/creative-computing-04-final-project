@@ -31,11 +31,11 @@ body {
 
 .box-1 {
   font-family: 'Akronim', cursive;
-  font-size: 400px;
+  font-size: 200px;
   display: inline-grid;
 }
 
 .box-2 {
   font-family: 'Akronim', cursive;
-  font-size: 200px;
+  font-size: 100px;
 }
