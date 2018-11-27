@@ -33,6 +33,7 @@ body {
   font-family: 'Akronim', cursive;
   font-size: 200px;
   display: inline-grid;
+  position: center;
 }
 
 .box-2 {
