@@ -27,8 +27,7 @@ body {
 .content {
   height: 100%;
   width: 100%;
-  display: inline-block;
-}
+  
 .box-1 {
   font-family: 'Akronim', cursive;
   font-size: 40px;
