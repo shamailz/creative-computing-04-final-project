@@ -27,16 +27,15 @@ body {
 .content {
   height: 100%;
   width: 100%;
+  display: inline-block;
 }
-.row-1 {
+.box-1 {
   font-family: 'Akronim', cursive;
   font-size: 40px;
-  display: inline-grid;
-
+  height: 300px;
 }
 
-.row-2 {
+.box-2 {
   font-family: 'Akronim', cursive;
   font-size: 20px;
-  display: inline-grid;
 }
