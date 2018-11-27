@@ -46,7 +46,6 @@ body {
 }
 
 .content:hover .box-2 {
-     color: gray; 
-     text-decoration:none; 
+     color: gray;  
      cursor:pointer;  
 }
