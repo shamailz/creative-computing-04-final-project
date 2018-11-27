@@ -24,3 +24,17 @@ body {
   width: auto;
 }
 
+.content {
+  height: 100%;
+  width: 100%;
+}
+
+.box-1 {
+  font-family: 'Akronim', cursive;
+  font-size: 40px;
+}
+
+.box-2 {
+  font-family: 'Akronim', cursive;
+  font-size: 20px;
+}
