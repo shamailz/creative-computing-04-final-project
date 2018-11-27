@@ -45,8 +45,7 @@ body {
   color: black;
 }
 
-.content:hover 
-{
+.content:hover .box-2 {
      color: gray; 
      text-decoration:none; 
      cursor:pointer;  
