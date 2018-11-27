@@ -27,13 +27,13 @@ body {
 .content {
   height: 100%;
   width: 100%;
+  object-position: center;
 }
 
 .box-1 {
   font-family: 'Akronim', cursive;
   font-size: 200px;
   display: inline-grid;
-  object-position: center;
 }
 
 .box-2 {
