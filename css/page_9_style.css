@@ -12,7 +12,7 @@ body {
   padding: 0;
   min-width: 100vw;
   min-height: 100vh;
-  background:url( data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAPUlEQVQoU2NkYGD4z8DAwMiAH/yHKcCnGCyHbBI2xXAxdCuRFaNoxOY2kAIQQJEjWyFRVhPlGaKCh6gABwBcgBIJm5yNfAAAAABJRU5ErkJggg==) repeat;
+  background:url( data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAASElEQVQoU2NkYGD4n3TwJgM+MM9enYEx6eDN/yAGLsUwObBCkGnYFCOLwRWiK0bXiKIQphhEozuFPIXI1uG0mijPEBU8xAY4AKyeSeHB7LkPAAAAAElFTkSuQmCC) repeat;
 }
 
 .center {
