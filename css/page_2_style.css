@@ -42,8 +42,13 @@ body {
   0%{
     color:transparent;
   }
+  50% {
+    color:hsl(17,36%, 40%);
+    border-radius: 15px;
+  }
   100%{
     color:hsl(17,36%, 40%);
+    border-radius: 25px;
   }
 }
 
