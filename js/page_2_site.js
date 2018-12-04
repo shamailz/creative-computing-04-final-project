@@ -63,6 +63,7 @@ for (var i = 0; i < 300; i++) {
   // add a div with class "shape" to container div
   container.append(shape);
 }
+var shapes = document.querySelectorAll('.shape');
 
 
 
