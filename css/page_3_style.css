@@ -50,11 +50,19 @@ body {
   font-family: 'Poiret One', cursive;
 }
 
+img { 
+margin-bottom: -200px;
+margin-top: -100px;
+}
+
 a{
   text-decoration: none;
   color:hsl(17,100%,74%);
 }
 
+a:hover{
+  color: hsl(25,100%,97%);
+}
 
 
 
