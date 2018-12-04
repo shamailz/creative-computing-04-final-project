@@ -32,10 +32,10 @@ body {
 .shape {
   height: 300px;
   width: 300px;
-  border-top-left-radius: 100px;
-  border-top-right-radius: 100px;
-  border-bottom-left-radius: 100px;
-  border-bottom-right-radius: 100px;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+  border-bottom-left-radius: 200px;
+  border-bottom-right-radius: 200px;
   background-color: hsl(20,57%,35%);
    
 }
