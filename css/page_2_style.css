@@ -38,21 +38,7 @@ body {
   border-bottom-right-radius: 25px;
   display: inline-block; 
 }
-@keyframes food {
-  0% {
-   color:hsl(17,36%, 40%);
-  }
 
-  50% {
-    color:hsl(17,36%, 40%);
-    border-radius: 15px;
-  }
-
-  100% {
-    border-radius: 25px;
-     color:transparent;
-  }
-}
 
 .content:hover .shape{
   animation-name: food;
