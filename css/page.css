@@ -40,6 +40,7 @@ body {
   width: 50%;
   height: 50%;
   color: black;
+  font-size: 100px;
   background-color: hsl(17,36%,40%);
 }
 
