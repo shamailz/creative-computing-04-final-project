@@ -37,7 +37,7 @@ body {
   border-bottom-left-radius: 250px;
   border-bottom-right-radius: 250px;
   background-color: hsl(20,57%,35%);
-   position: absolute;
+  position: absolute;
 }
 
 .shape2 {
@@ -118,6 +118,128 @@ body {
    transform: translate(3px, 1px) rotate(-1deg); 
    }
 }
+
+.shape2:hover{
+  animation: shake 0.2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake{
+  0%{
+    transform: translate(1px, 1px) rotate(0deg);
+  }
+  15%{
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+  30%{
+  transform: translate(-3px, 0px) rotate(1deg); }
+  45%{     
+    transform: translate(3px, 2px) rotate(0deg); 
+  }
+  60%{
+  transform: translate(1px, -1px) rotate(1deg); 
+  }
+  75%{
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+  90%{
+    transform: translate(-3px, 1px) rotate(0deg); 
+  }
+  100%{
+   transform: translate(3px, 1px) rotate(-1deg); 
+   }
+}
+.shape3:hover{
+  animation: shake 0.2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake{
+  0%{
+    transform: translate(1px, 1px) rotate(0deg);
+  }
+  15%{
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+  30%{
+  transform: translate(-3px, 0px) rotate(1deg); }
+  45%{     
+    transform: translate(3px, 2px) rotate(0deg); 
+  }
+  60%{
+  transform: translate(1px, -1px) rotate(1deg); 
+  }
+  75%{
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+  90%{
+    transform: translate(-3px, 1px) rotate(0deg); 
+  }
+  100%{
+   transform: translate(3px, 1px) rotate(-1deg); 
+   }
+}
+.shape4:hover{
+  animation: shake 0.2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake{
+  0%{
+    transform: translate(1px, 1px) rotate(0deg);
+  }
+  15%{
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+  30%{
+  transform: translate(-3px, 0px) rotate(1deg); }
+  45%{     
+    transform: translate(3px, 2px) rotate(0deg); 
+  }
+  60%{
+  transform: translate(1px, -1px) rotate(1deg); 
+  }
+  75%{
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+  90%{
+    transform: translate(-3px, 1px) rotate(0deg); 
+  }
+  100%{
+   transform: translate(3px, 1px) rotate(-1deg); 
+   }
+}
+.shape5:hover{
+  animation: shake 0.2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake{
+  0%{
+    transform: translate(1px, 1px) rotate(0deg);
+  }
+  15%{
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+  30%{
+  transform: translate(-3px, 0px) rotate(1deg); }
+  45%{     
+    transform: translate(3px, 2px) rotate(0deg); 
+  }
+  60%{
+  transform: translate(1px, -1px) rotate(1deg); 
+  }
+  75%{
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+  90%{
+    transform: translate(-3px, 1px) rotate(0deg); 
+  }
+  100%{
+   transform: translate(3px, 1px) rotate(-1deg); 
+   }
+}
+
 
 
 
