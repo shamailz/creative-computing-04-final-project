@@ -30,10 +30,10 @@ body {
 }
 
 .shape {
-  height: 350px;
-  width: 350px;
-  border-top-left-radius: 250px;
-  border-top-right-radius: 250px;
+  height: 300px;
+  width: 300px;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
   border-bottom-left-radius: 250px;
   border-bottom-right-radius: 250px;
   background-color: hsl(20,57%,35%);
