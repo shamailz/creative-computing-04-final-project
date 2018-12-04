@@ -74,7 +74,7 @@ var shapes= document.querySelectorAll('.shape');
 var h= randomNumber(17,20)
 var s= randomNumber(30%, 90%) 
 var l= randomNumber(30%, 70%) 
-shapes.style.background= hslColor(h, s, l)
+shape.style.background= hslColor(h, s, l)
 
 shapes.forEach(function(shape, i) {
   shape.addEventListener('mouseover', function(event) {
