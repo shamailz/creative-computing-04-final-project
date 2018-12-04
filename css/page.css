@@ -36,7 +36,7 @@ body {
   position: relative;
   background-color: hsl(22,95%,70%);
   color: black;
-  font-size: 200px;
+  font-size: 150px;
 }
 
 .box-2 {
@@ -45,7 +45,7 @@ body {
   display: inline-block;
   position: relative;
   color: black;
-  font-size: 200px;
+  font-size: 150px;
   background-color: hsl(17,36%,40%);
 }
 
