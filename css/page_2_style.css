@@ -40,7 +40,7 @@ body {
 }
 @keyframes food {
   0% {
-    color:transparent;
+   color:hsl(17,36%, 40%);
   }
 
   50% {
@@ -49,8 +49,8 @@ body {
   }
 
   100% {
-    color:hsl(17,36%, 40%);
     border-radius: 25px;
+     color:transparent;
   }
 }
 
