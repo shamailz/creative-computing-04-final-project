@@ -48,7 +48,7 @@ body {
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   background-color: hsl(20,57%,35%);
-  display: inline-block; 
+  margin-left: 400px;
 }
 
 .shape3 {
