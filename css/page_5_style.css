@@ -13,7 +13,7 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   background-color: hsl(25, 60%, 78%)
-  
+
 }
 
 .center {
@@ -31,7 +31,7 @@ body {
 }
 .box-1 {
   font-family: 'Akronim', cursive;
-  font-size: 200px;
+  font-size: 150px;
   display: inline-grid;
   margin-top: 90px;
   margin-left: 100px;
