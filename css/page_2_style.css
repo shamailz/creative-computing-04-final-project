@@ -39,7 +39,7 @@ body {
   background-color: hsl(22,95%,70%);
   display: inline-block; 
 }
-@keyframes {
+@keyframes food {
   0%{
     color:transparent;
   }
