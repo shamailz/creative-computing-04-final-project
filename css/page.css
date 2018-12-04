@@ -32,21 +32,21 @@ body {
 .box-1 {
   width: 50vw;
   height: 50vh;
+  display: inline-block;
+  position: relative;
   background-color: hsl(22,95%,70%);
   color: black;
   font-size: 100px;
-  display: inline-block;
-  position: relative;
 }
 
 .box-2 {
   width: 50vw;
   height: 50vh;
+  display: inline-block;
+  position: relative;
   color: black;
   font-size: 100px;
   background-color: hsl(17,36%,40%);
-  display: inline-block;
-  position: relative;
 }
 
 a:link {
