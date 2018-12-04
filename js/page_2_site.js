@@ -50,21 +50,9 @@ function hslColor(h, s, l) {
 
 /* START WRITING YOUR CODE BELOW */
 
-var spot = {
-  x:100,
-  y:50
+for (var i = 0; i < 300; i++) {
+  var shape= document.querySelector('.shape')
 }
-
-var color = {
-  h=0
-  s=0
-  l=0
-}
-function draw (
-  createCanvas(100, 100)
-  spot.x=random(0, width)
-  spot.y=random(0, height)
-ellipse (spot.x, 100, 24, 24)
 
   
 
