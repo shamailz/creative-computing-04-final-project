@@ -42,7 +42,6 @@ body {
 
 
 .shape-interaction {
-  color: hsl(22,95%,70%);
   transform: scale( .5);
 }
 
