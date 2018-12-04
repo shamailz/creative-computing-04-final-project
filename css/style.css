@@ -48,16 +48,6 @@ body {
   color: black;
 }
 
-@keyframes down {
-  0% {
-    font-color: black;
-  }
-  100% {
-    font-color: white;
-  }
-}
-
-.content:hover .box-2 { 
-     animation-name: down;
-  animation-duration: .1s; 
+a:style{
+  text-decoration: none;
 }
