@@ -61,7 +61,7 @@ var color = {
   l=0
 }
 function draw (
-ellipse (spot.x, spot.y, 24, 24)
+ellipse (spot.x, 100, 24, 24)
   
 
 
