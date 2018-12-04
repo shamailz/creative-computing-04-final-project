@@ -60,9 +60,9 @@ a:hover{
   color: hsl(25,100%,97%);
 }
 
-
 a{
   text-decoration: none;
+  color: hsl(25,50%,37%)
 }
 
 
