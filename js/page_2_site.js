@@ -79,7 +79,6 @@ shapes.forEach(function(shape, i) {
     } else {
     shape.classList.add('shape-interaction');
   }
-var hslColor
 var h= randomNumber(17,20)
 var s= randomNumber(30%, 90%) 
 var l= randomNumber(30%, 70%) 
