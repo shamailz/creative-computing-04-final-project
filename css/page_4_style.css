@@ -27,3 +27,72 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.shape {
+  height: 200px;
+  width: 200px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  background-color: hsl(20,57%,35%);
+   
+}
+
+.shape2 {
+  height: 50px;
+  width: 50px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: hsl(20,57%,35%);
+  display: inline-block; 
+}
+
+.shape3 {
+  height: 50px;
+  width: 50px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: hsl(20,57%,35%);
+  display: inline-block; 
+}
+
+.shape4 {
+  height: 50px;
+  width: 50px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: hsl(20,57%,35%);
+  display: inline-block; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
