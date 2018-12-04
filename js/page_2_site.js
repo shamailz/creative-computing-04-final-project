@@ -49,3 +49,35 @@ function hslColor(h, s, l) {
 
 
 /* START WRITING YOUR CODE BELOW */
+
+var spot = {
+  x:100,
+  y:50
+}
+
+var color = {
+  h=0
+  s=0
+  l=0
+}
+function draw (
+ellipse (spot.x, spot.y, 24, 24)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
