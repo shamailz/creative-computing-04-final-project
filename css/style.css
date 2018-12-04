@@ -52,6 +52,9 @@ body {
 a:link{
   color: transparent;
 }
+a:hover{
+  color: white;
+}
 
 
 
