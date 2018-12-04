@@ -27,6 +27,7 @@ body {
 .content {
   height: 100%;
   width: 100%;
+
 }
 
 .box-1 {
@@ -45,7 +46,7 @@ body {
 }
 
 a:link {
-  color: transparent;
+  color: black;
 }
 
 
