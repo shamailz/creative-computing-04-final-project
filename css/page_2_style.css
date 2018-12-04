@@ -36,7 +36,6 @@ body {
   border-top-right-radius: 25px;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  background-color: hsl(17,36%,40%);
   display: inline-block; 
 }
 @keyframes food {
