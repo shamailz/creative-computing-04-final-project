@@ -37,6 +37,7 @@ body {
 }
 
 a{
+  text-align: center;
   text-decoration: none;
   color: hsl(17,98%, 21%);
 }
