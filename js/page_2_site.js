@@ -50,7 +50,7 @@ function hslColor(h, s, l) {
 
 /* START WRITING YOUR CODE BELOW */
 
-for ( var i = 0; i < 500; i++) {
+for ( var i = 0; i < 499; i++) {
   // create a div
   var shape = document.createElement('div');
 
