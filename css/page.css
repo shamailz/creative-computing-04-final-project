@@ -30,7 +30,7 @@ body {
 }
 
 .box-1 {
-  width: 50vw;
+  width: 100vw;
   height: 50vh;
   display: inline-block;
   position: relative;
@@ -40,7 +40,7 @@ body {
 }
 
 .box-2 {
-  width: 50vw;
+  width: 100vw;
   height: 50vh;
   display: inline-block;
   position: relative;
