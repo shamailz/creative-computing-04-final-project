@@ -55,8 +55,9 @@ a:link {
 a:visited {
   color: black;
 }
-img {
-  margin-bottom: -200px;
+img{
+  margin-left: 500px;
+  margin-bottom: 300px;
 }
 
 
