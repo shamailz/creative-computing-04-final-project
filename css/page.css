@@ -39,6 +39,10 @@ body {
   font-size: 130px;
 }
 
+img{
+  margin-left: 500px;
+  margin-bottom: 3000px;
+}
 .box-2 {
   width: 100vw;
   height: 50vh;
@@ -55,10 +59,7 @@ a:link {
 a:visited {
   color: black;
 }
-img{
-  margin-left: 500px;
-  margin-bottom: 3000px;
-}
+
 
 
 
