@@ -83,6 +83,12 @@ shapes.forEach(function(shape, i) {
   });
 });
 
+var link = document.querySelector('.special-link');
+link.style.top = 100 + 'px';
+link.style.left = 100 + 'px';
+link.style.zIndex = -1;
+
+
 
 
 
