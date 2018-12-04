@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: hsl(25, 60%, 78%)
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  height: auto;
+  width: auto;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  height: auto;
+  width: auto;
+}
+
+.box-1 {
+  font-family: 'Akronim', cursive;
+  font-size: 200px;
+  display: inline-grid;
+  margin-top: 90px;
+  margin-left: 100px;
+}
+
+.box-2 {
+  font-family: 'Akronim', cursive;
+  font-size: 100px;
+  margin-left: 100px;
+  margin-top: 40px;
+  color: black;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: hsl(17,98%, 21%);
+}
+
+img{
+  margin-left: 500px;
+  margin-bottom: 300px;
+}
