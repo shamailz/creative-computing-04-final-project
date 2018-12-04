@@ -12,7 +12,7 @@ body {
   padding: 0;
   min-width: 100vw;
   min-height: 100vh;
-  background-color: hsl(25, 60%, 78%)
+  background:url( data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAPUlEQVQoU2NkYGD4z8DAwMiAH/yHKcCnGCyHbBI2xXAxdCuRFaNoxOY2kAIQQJEjWyFRVhPlGaKCh6gABwBcgBIJm5yNfAAAAABJRU5ErkJggg==) repeat;
 }
 
 .center {
