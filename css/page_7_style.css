@@ -32,36 +32,22 @@ body {
   width: auto;
 }
 
-.shape1{
-      width: 25;
-      height: 40;
-      margin-top: -100px;
-      margin-left: 100px;
-      border-left: 50px solid transparent;
-      border-right: 50px solid transparent;
-      border-bottom: 100px solid red;
-
+.box-1 {
+  font-family: 'Akronim', cursive;
+  font-size: 150px;
+  display: inline-grid;
+  margin-left: 100px;
+  margin-top: 75px;
+}
+img{
+  margin-bottom: -75px
 }
 
-
-.shape2{
-      width: 25;
-      height: 40
-      border-left: 50px solid transparent;
-      border-right: 50px solid transparent;
-      border-bottom: 100px solid red;
+a{
+  text-align: center;
+  text-decoration: none;
+  color: hsl(17,98%, 21%);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a:hover{
+  color: hsl(19,29%,28%);
+}
