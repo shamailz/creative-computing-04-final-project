@@ -12,6 +12,7 @@ body {
   padding: 0;
   min-width: 100vw;
   min-height: 100vh;
+ background-color: hsl(25, 60%, 78%)
 }
 
 .center {
