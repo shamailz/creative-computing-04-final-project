@@ -56,12 +56,10 @@ margin-bottom: -200px;
 margin-top: -100px;
 }
 
-a:hover {
+a:hover{
   color: hsl(25,100%,97%);
 }
-a:visited {
-  color: hsl(25,50%,37%)
-}
+
 
 a{
   text-decoration: none;
