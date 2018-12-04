@@ -39,8 +39,8 @@ body {
 .box-2 {
   width: 50%;
   height: 50%;
+  color: black;
   background-color: hsl(17,36%,40%);
-  color: white;
 }
 
 a:link {
