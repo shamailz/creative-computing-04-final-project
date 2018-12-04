@@ -38,7 +38,6 @@ body {
   display: inline-block;
   position: relative;
   background-color: hsl(22,95%,70%);
-  color: black;
   font-size: 100px;
   font-family: 'Poiret One', cursive;
 }
@@ -48,7 +47,6 @@ body {
   height: 50vh;
   display: inline-block;
   position: relative;
-  color: black;
   font-size: 100px;
   background-color: hsl(17,36%,40%);
   font-family: 'Poiret One', cursive;
