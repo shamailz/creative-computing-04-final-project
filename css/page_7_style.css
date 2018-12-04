@@ -32,30 +32,26 @@ body {
   width: auto;
 }
 
-.box-1 {
-  font-family: 'Akronim', cursive;
-  font-size: 200px;
-  display: inline-grid;
-  margin-top: 90px;
-  margin-left: 100px;
+.shape1{
+
+
 }
 
-.box-2 {
-  font-family: 'Akronim', cursive;
-  font-size: 100px;
-  margin-left: 100px;
-  margin-top: 40px;
-  color: black;
+
+.shape2{
+  
 }
 
-a{
-  text-decoration: none;
-}
-a:hover{
-  color: hsl(17,98%, 21%);
-}
 
-img{
-  margin-left: 500px;
-  margin-bottom: 300px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
