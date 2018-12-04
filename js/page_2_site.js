@@ -61,7 +61,9 @@ var color = {
   l=0
 }
 function draw (
+  createCanvas(100, 100)
   spot.x=random(0, width)
+  spot.y=random(0, height)
 ellipse (spot.x, 100, 24, 24)
 
   
