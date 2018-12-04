@@ -48,8 +48,8 @@ body {
   color: black;
 }
 
-a:link{
-  color: transparent;
+a{
+  text-decoration: none;
 }
 a:hover{
   color: hsl(17,98%, 21%);
