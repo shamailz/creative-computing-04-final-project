@@ -84,8 +84,13 @@ shapes.forEach(function(shape, i) {
 });
 
 var link = document.querySelector('.special-link');
-link.style.top = 100 + 'px';
-link.style.left = 100 + 'px';
+
+var top = randomNumber(0, 1000);
+var left = randomNumber(0, 800);
+
+link.style.top = top + 'px';
+link.style.left = left + 'px';
+link.style.position = 'absolute';
 link.style.zIndex = -1;
 
 
