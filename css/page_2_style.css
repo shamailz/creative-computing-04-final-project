@@ -48,7 +48,6 @@ body {
 }
 
 .content:hover .shape{
-  border-margin: 0px;
   animation-name: food;
   animation-duration: .5s;
   animation-iteration-count: infinite;
