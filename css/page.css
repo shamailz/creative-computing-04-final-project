@@ -37,6 +37,7 @@ body {
   background-color: hsl(22,95%,70%);
   color: black;
   font-size: 130px;
+  font-family: 'Poiret One', cursive;
 }
 
 .box-2 {
@@ -47,6 +48,7 @@ body {
   color: black;
   font-size: 130px;
   background-color: hsl(17,36%,40%);
+  font-family: 'Poiret One', cursive;
 }
 
 img { 
