@@ -48,6 +48,11 @@ body {
   }
 }
 
+.content:hover .shape{
+  border-margin: 0px;
+  animation-name: food;
+  animation-duration: 1.5s;
+}
 
 
 
