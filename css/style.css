@@ -49,6 +49,17 @@ body {
   color: black;
 }
 
-a:style{
-  text-decoration: none;
+a:link{
+  color: transparent;
 }
+
+
+
+
+
+
+
+
+
+
+
