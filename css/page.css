@@ -27,3 +27,34 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.box-1 {
+  width: 50%;
+  height: 50%;
+  background-color: hsl(22,95%,70%)
+  color: black;
+}
+
+.box-2 {
+  width: 50%;
+  height: 50%;
+  background-color: hsl(17,36%,40%)
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
