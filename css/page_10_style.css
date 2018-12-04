@@ -36,6 +36,7 @@ body {
   font-family: 'Akronim', cursive;
   font-size: 150px;
   display: inline-grid;
+  text-align: center;
 }
 
 a{
