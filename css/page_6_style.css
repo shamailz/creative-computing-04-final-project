@@ -37,7 +37,7 @@ body {
   height: 50vh;
   display: inline-block;
   position: relative;
-  background-color: hsl(22,95%,70%);
+  background-color: hsl(17,100%,72%);
   font-size: 100px;
   font-family: 'Poiret One', cursive;
 }
@@ -48,7 +48,7 @@ body {
   display: inline-block;
   position: relative;
   font-size: 100px;
-  background-color: hsl(17,36%,40%);
+  background-color: hsl(25,60%,78%);
   font-family: 'Poiret One', cursive;
 }
 
