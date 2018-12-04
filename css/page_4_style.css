@@ -34,8 +34,8 @@ body {
   width: 300px;
   border-top-left-radius: 200px;
   border-top-right-radius: 200px;
-  border-bottom-left-radius: 250px;
-  border-bottom-right-radius: 250px;
+  border-bottom-left-radius: 200px;
+  border-bottom-right-radius: 200px;
   background-color: hsl(20,57%,35%);
   position: absolute;
 }
