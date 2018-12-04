@@ -36,13 +36,14 @@ body {
   border-top-right-radius: 25px;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  background-color: transparent;
+  background-color: hsl(22,95%,70%);
   display: inline-block; 
 }
 
 
 .shape-interaction {
   color: hsl(22,95%,70%);
+  transform: scale( .5);
 }
 
 
