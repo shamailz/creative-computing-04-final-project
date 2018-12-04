@@ -37,7 +37,10 @@ body {
   font-size: 150px;
   display: inline-grid;
   margin-left: 100px;
-  margin-top: 100px;
+  margin-top: 75px;
+}
+img{
+  margin-bottom: -75px
 }
 
 a{
