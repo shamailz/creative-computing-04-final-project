@@ -53,8 +53,15 @@ function hslColor(h, s, l) {
 for (var i = 0; i < 300; i++) {
   // create a div
   var shape = document.createElement('div');
+
   //add class "shape" to div
   shape.classList.add('shape');
+
+  // select container div
+  var container = document.querySelector('.content');
+
+  // add a div with class "shape" to container div
+  container.append(shape);
 }
 
 
