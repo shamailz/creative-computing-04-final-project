@@ -29,20 +29,23 @@ body {
   width: 100%;
 }
 
-a:.box-1 {
+.box-1 {
   width: 50%;
   height: 50%;
   background-color: hsl(22,95%,70%);
   color: black;
 }
 
-a:.box-2 {
+.box-2 {
   width: 50%;
   height: 50%;
   background-color: hsl(17,36%,40%);
   color: white;
 }
 
+a:style{
+  color: transparent;
+}
 
 
 
