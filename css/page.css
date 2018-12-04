@@ -35,6 +35,7 @@ body {
   height: 50vh;
   background-color: hsl(22,95%,70%);
   color: black;
+  font-size: 100px;
 }
 
 .box-2 {
