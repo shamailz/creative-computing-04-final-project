@@ -88,7 +88,7 @@ body {
   margin-top: -30px;
 }
 
-.shape,.shape2,.shape3:hover{
+.content{
   animation: shake 0.2s;
   animation-iteration-count: infinite;
 }
