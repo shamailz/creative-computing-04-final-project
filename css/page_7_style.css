@@ -45,6 +45,7 @@ body {
 .shape2{
       width: 25;
       height: 40;
+      vertical-align: bottom;
       border-left: 50px solid transparent;
       border-right: 50px solid transparent;
       border-bottom: 100px solid red;
