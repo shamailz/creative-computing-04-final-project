@@ -33,29 +33,37 @@ body {
 }
 
 .box-1 {
-  font-family: 'Akronim', cursive;
-  font-size: 200px;
-  display: inline-grid;
-  margin-top: 90px;
-  margin-left: 100px;
+  width: 100vw;
+  height: 50vh;
+  display: inline-block;
+  position: relative;
+  background-color: hsl(22,95%,70%);
+  color: black;
+  font-size: 100px;
+  font-family: 'Poiret One', cursive;
 }
 
 .box-2 {
-  font-family: 'Akronim', cursive;
-  font-size: 100px;
-  margin-left: 100px;
-  margin-top: 40px;
+  width: 100vw;
+  height: 50vh;
+  display: inline-block;
+  position: relative;
   color: black;
+  font-size: 100px;
+  background-color: hsl(17,36%,40%);
+  font-family: 'Poiret One', cursive;
+}
+
+img { 
+margin-bottom: -200px;
+margin-top: -100px;
+}
+
+a:hover{
+  color: hsl(25,100%,97%);
 }
 
 a{
   text-decoration: none;
-}
-a:hover{
-  color: hsl(17,98%, 21%);
-}
-
-img{
-  margin-left: 500px;
-  margin-bottom: 300px;
+  color: hsl(25,70%,57%)
 }
