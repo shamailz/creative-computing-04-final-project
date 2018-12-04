@@ -60,7 +60,7 @@ a:hover {
   color: hsl(25,100%,97%);
 }
 a:visited {
-  color: black;
+  color: hsl(25,80%,77%)
 }
 
 a{
