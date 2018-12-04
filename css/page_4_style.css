@@ -37,7 +37,7 @@ body {
   border-bottom-left-radius: 250px;
   border-bottom-right-radius: 250px;
   background-color: hsl(20,57%,35%);
-   
+   position: absolute;
 }
 
 .shape2 {
@@ -89,7 +89,7 @@ body {
 }
 
 .content:hover{
-  animation: shake 0.5s;
+  animation: shake 0.2s;
   animation-iteration-count: infinite;
 }
 
