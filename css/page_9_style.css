@@ -33,20 +33,10 @@ body {
 }
 
 .box-1 {
-  font-family: 'Akronim', cursive;
-  font-size: 200px;
-  display: inline-grid;
-  margin-top: 90px;
-  margin-left: 100px;
+  color:transparent;
+  
 }
 
-.box-2 {
-  font-family: 'Akronim', cursive;
-  font-size: 100px;
-  margin-left: 100px;
-  margin-top: 40px;
-  color: black;
-}
 
 a{
   text-decoration: none;
@@ -55,6 +45,3 @@ a:hover{
   color: hsl(17,98%, 21%);
 }
 
-img{
-
-}
