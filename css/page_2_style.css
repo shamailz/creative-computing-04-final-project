@@ -42,7 +42,7 @@ body {
 
 
 .shape-interaction {
-  transform: scale( .5);
+  transform: scale(0);
 }
 
 
