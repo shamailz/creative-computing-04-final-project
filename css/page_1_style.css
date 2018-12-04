@@ -27,3 +27,18 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.box-1 {
+  font-family: 'Akronim', cursive;
+  font-size: 150px;
+  display: inline-grid;
+}
+
+a{
+  text-align: center;
+  text-decoration: none;
+  color: hsl(17,98%, 21%);
+}
+a:hover{
+  color: hsl(19,29%,28%);
+}
