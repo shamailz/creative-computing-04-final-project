@@ -36,54 +36,13 @@ body {
   border-top-right-radius: 25px;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  background-color: hsl(22,95%,70%);
+  background-color: transparent;
   display: inline-block; 
 }
-@keyframes down {
-  0% {
-    transform: scale(0.8);
-    border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
-  }
-  20% {
-    transform: scale(0.6);
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-
-  }
-  65% {
-    transform: scale(0.4);
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
- 
-  }
-  85% {
-    transform: scale(0.2);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
- 
-  }
-  100% {
-    transform:scale(0.0);
-    border-radius: 0px;
-  }
-}
 
 
-.content:hover .shape {
-  width: 100px;
-  height: 75px;
-  animation-name: down;
-  animation-duration: 0.5s;
-  animation-iteration-count: infinite;
+.shape-interaction {
+  color: hsl(22,95%,70%);
 }
 
 
